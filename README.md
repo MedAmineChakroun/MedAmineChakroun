@@ -6,13 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/medaminechakroun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/aminechakroun" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 - 🔭 I’m currently working on **personal projects**  
-- 🌱 I’m currently learning **Django and Machine Learning**  
 - 👨‍💻 All of my projects: [Portfolio](https://my-portfolio-wn1a.vercel.app/)  
 - 📫 Contact me: **medaminechakroun520@gmail.com**  
 - ⚡ Fun fact: **Chess player and coffee addict**  

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Med Amine Chakroun</h1>
-<h3 align="center">A passionate web developer and lifelong learner from Tunisia.</h3>
+<h3 align="center">A passionate full-stack web developer and lifelong learner.</h3>
 
 
 

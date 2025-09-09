@@ -8,7 +8,7 @@
   <a href="https://instagram.com/aminechakroun" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-- 🔭 I’m currently working on **personal projects**  
+- 🔭 I’m currently freelancing and working on **personal projects**  
 - 👨‍💻 All of my projects: [Portfolio](https://my-portfolio-wn1a.vercel.app/)  
 - 📫 Contact me: **medaminechakroun520@gmail.com**  
 - ⚡ Fun fact: **Chess player and coffee addict**  

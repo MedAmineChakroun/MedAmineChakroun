@@ -2,8 +2,11 @@
 <h3 align="center">A passionate web developer and lifelong learner from Tunisia.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/medaminechakroun?style=flat&color=0e75b6" alt="Commits" />
+  <a href="https://github.com/medaminechakroun">
+    <img src="https://img.shields.io/github/commit-activity/m/medaminechakroun?style=flat&color=0e75b6" alt="Commits" />
+  </a>
 </p>
+
 
 
 <p align="center">
